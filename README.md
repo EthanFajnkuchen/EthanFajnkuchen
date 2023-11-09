@@ -1,11 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently a Computer Science student at Reichman University<br>👯 I’m looking to collaborate on open-source projects related to web development, machine learning, and artificial intelligence.<br>🤝 I’m looking for help with: improving my coding skills and expanding my knowledge in various areas of computer science.<br>🌱 I’m currently learning: advanced algorithms, full stack development, and machine learning.<br>💬 Ask me about everything you want ;)<br>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethan-fajnkuchen) 
-[![Web](https://img.shields.io/badge/-My%20Website-blueviolet)](https://ethanfajnkuchen.github.io/ethanfjn.github.io/)
-
 # 💻 Tech Stack:
 
 ## Programming Languages
@@ -40,4 +35,6 @@
 ![icons8-gitlab](https://github.com/EthanFajnkuchen/EthanFajnkuchen/assets/102037640/7a04ca34-17b9-4772-b85b-e9952845318e) &nbsp;&nbsp;&nbsp;&nbsp;
 ![icons8-github](https://github.com/EthanFajnkuchen/EthanFajnkuchen/assets/102037640/f553e422-a763-4e23-a621-dda14bdb9195)
 
-
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethan-fajnkuchen) 
+[![Web](https://img.shields.io/badge/-My%20Website-blueviolet)](https://ethanfajnkuchen.github.io/ethanfjn.github.io/)
