@@ -37,4 +37,3 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethan-fajnkuchen) 
-[![Web](https://img.shields.io/badge/-My%20Website-blueviolet)](https://ethanfajnkuchen.github.io/ethanfjn.github.io/)
