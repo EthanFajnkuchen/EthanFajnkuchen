@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Computer Science student at Reichman University<br>👯 I’m looking to collaborate on open-source projects related to web development, machine learning, and artificial intelligence.<br>🤝 I’m looking for help with: improving my coding skills and expanding my knowledge in various areas of computer science.<br>🌱 I’m currently learning: advanced algorithms, full stack development, and machine learning.<br>💬 Ask me about everything you want ;)<br>
+🔭 I’m currently a Full-Stack Developer at Moveo.<br> 🤝 I’m always looking for new challenges and opportunities to expand my skills.<br>🌱 I’m passionate about software architecture, artificial intelligence, and creating innovative solutions.<br>💬 Ask me about everything you want ;)<br>
 
 # 💻 Tech Stack:
 
